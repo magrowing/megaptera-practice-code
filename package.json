@@ -1,0 +1,12 @@
+{
+  "name": "megaptera-practice-code",
+  "version": "1.0.0",
+  "description": "📝 메가테라 프론트엔드 생존코스의 실습 코드 기록",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
